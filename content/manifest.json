@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-11-03T12:00:00Z",
+  "files": {
+    "movies": "releases/1/movies.json",
+    "series": "releases/1/series.json",
+    "wrestling": "releases/1/wrestling.json",
+    "channels": "releases/1/channels.json"
+  }
+}
